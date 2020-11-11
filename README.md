@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm Daniel! 🖖</h1>
+<h1 align="center" >Hi, I'm Daniel! </h1>
 <h3 align="center"> Former Data Engineer in Healthcare</h3>
 <p> 
   <ul align="center"> 
@@ -9,7 +9,6 @@
 <p>
 
  
-
 
 <h3 align="center">Connect with me: 
   <a href="https://www.linkedin.com/in/daniel-hahm/" target="blank">
