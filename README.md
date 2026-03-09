@@ -96,11 +96,3 @@
   </a>
 </p>
   
-  
-</p>
-<br>
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahm-d&layout=compact" alt="hahm-d" />
-  <br>
-    <img  src="https://github-readme-stats.vercel.app/api?username=hahm-d&show_icons=true" alt="hahm-d" />
-</p>
