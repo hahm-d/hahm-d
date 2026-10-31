@@ -12,14 +12,14 @@
 
 ### 🚀 What I've been working on
 
-- ⚛️ **Frontend** — Developing features within a company ecosystem using **React**, **TypeScript**, and **Cypress** for integration testing
-- 🔌 **Backend Integration** — Updating protobuf definitions and generating **gRPC clients** to connect backend services
-- 🔐 **Auth & Middleware** — Implementing methods for whitelisting authentication headers and request transformations
-- 🔗 **End-to-End API Integration** — Wiring together backend, protobuf, **GraphQL Mesh**, domain APIs, and UI layers
-- 🛠️ **Dev Tooling** — Utilizing **Bento** for remote development and streamlined tooling workflows
-- ☕ **Microservices** — Building and maintaining **Kotlin/JVM** microservices using gRPC, including DAL implementations, service-layer logic, and proto/entity conversion pipelines
-- 🗄️ **Database Layer** — Managing schema migrations, changelog management, and constraint-violation handling
-- ☁️ **Infrastructure** — Working across **Kubernetes** manifests, **AWS IAM** roles, application config, and external integrations like Slack alerting
+- ⚛️ **Frontend** Developing features within a company ecosystem using **React**, **TypeScript**, and **Cypress** for integration testing
+- 🔌 **Backend Integration** Updating protobuf definitions and generating **gRPC clients** to connect backend services
+- 🔐 **Auth & Middleware** Implementing methods for whitelisting authentication headers and request transformations
+- 🔗 **End-to-End API Integration** Wiring together backend, protobuf, **GraphQL Mesh**, domain APIs, and UI layers
+- 🛠️ **Dev Tooling** Utilizing **Bento** for remote development and streamlined tooling workflows
+- ☕ **Microservices** Building and maintaining **Kotlin/JVM** microservices using gRPC, including DAL implementations, service-layer logic, and proto/entity conversion pipelines
+- 🗄️ **Database Layer** Managing schema migrations, changelog management, and constraint-violation handling
+- ☁️ **Infrastructure** Working across **Kubernetes** manifests, **AWS IAM** roles, application config, and external integrations like Slack alerting
 
  
 
