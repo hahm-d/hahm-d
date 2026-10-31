@@ -2,10 +2,10 @@
 
 
 <h1 align="center">Hi, I'm Daniel! 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Sr Software Engineer</h3>
 
 <p align="center">
-  <em>Previously a Data Engineer in Healthcare — now building full-stack systems end to end.</em>
+  <em> Currently a Senior Software Engineer at Instacart. Previously a Data Engineer in Healthcare.</em>
 </p>
 
 ---
